@@ -2,4 +2,4 @@ configured: true
 is_new: true
 is_holiday: true
 has_pulled: true
-is_collaborator: true
+is_collaborator: false
