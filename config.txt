@@ -1,3 +1,4 @@
 configured: true
 is_new: true
 is_holiday: true
+has_pulled: true
